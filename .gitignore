@@ -1,0 +1,11 @@
+appimage/HMCL.AppDir/usr/
+appimage/HMCL.AppDir/.DirIcon
+appimage/HMCL.AppDir/*.png
+
+appimage/*.part
+appimage/*.AppImage
+appimage/*.jar
+appimage/*.png
+appimage/*.tar.gz
+
+build/
